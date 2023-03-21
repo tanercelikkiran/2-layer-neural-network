@@ -1,5 +1,24 @@
 # 2 Layer Neural Network
 
-This project is the implementation of the 5th assignment given in the 1st year of Computer Science Department of Hacettepe University in 2021-2022.
+## Description
 
-The aim of the project is to create a neural network that distinguishes whether the given picture is a cat picture or not. The detailed steps of the project are given in the PDF file provided.
+This is a simple 2 layer neural network that I wrote in Python for the final assignment of my BBM101 Introduction to Programming course. It is a simple neural network that can be used for distinguishing images. In the code, I used it to distinguish between cat and non-cat images. It can be used for other classification problems as well if the data is prepared accordingly. The main purpose of this code is to show how a neural network works and how to use advanced external libraries in Python such as Numpy and Matplotlib etc.
+
+## Requirements
+
+- Python 3.6 or higher
+- Jupyter Notebook
+
+or any other Python IDE with the following libraries:
+
+- Numpy
+- Matplotlib
+- h5py
+- PIL
+- scipy
+
+## Usage
+
+- Download the repository
+- Open the Jupyter Notebook file in Jupyter Notebook
+- Run the code cells in order
