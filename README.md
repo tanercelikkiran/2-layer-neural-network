@@ -19,6 +19,6 @@ or any other Python IDE with the following libraries:
 
 ## Usage
 
-- Download the repository
+- Clone the repository (<https://github.com/tanercelikkiran/2-layer-neural-network.git>) or download the zip file
 - Open the Jupyter Notebook file in Jupyter Notebook
 - Run the code cells in order
